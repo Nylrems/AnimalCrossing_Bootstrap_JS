@@ -52,3 +52,10 @@
 .card-border:hover{
     transform: scale(1.05);
 }
+#games{
+    background-color: rgb(255, 255, 255);
+    background: url(../img/bg-02.png), linear-gradient(0deg, rgba(255, 255, 255, 1) 0%, rgba(99,196, 255, 1)57%); /*Degradado*/
+    background-repeat: repeat-x;
+    background-size: 75%;
+    margin-top: -20px;
+}
