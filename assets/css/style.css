@@ -59,3 +59,17 @@
     background-size: 75%;
     margin-top: -20px;
 }
+#separator-amiibos{
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    z-index: 2;
+}
+#separator-amiibos .content{
+    width: 110%;
+    height: 100px;
+    margin-left: -5%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    background: url(../img/bg-03.png);
+}
