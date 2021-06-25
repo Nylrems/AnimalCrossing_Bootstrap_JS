@@ -94,3 +94,6 @@
     text-align: center;
     border-radius: 15px;
 }
+#separator-amiibos-footer{
+    height: 20vw; /*esta clase es para el background de footer*/
+}
